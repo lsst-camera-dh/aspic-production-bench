@@ -1,0 +1,12 @@
+BEB calibration LAL
+from C:\LSST\ASPIC_production\LAL\CHIP0000\calibBEB\20151106\LINEAR18_avstd_2015-11-06_170620.txt
+with Keithley acquisition
+0:-21.7223
+1:-21.8305
+2:-21.747
+3:-21.8604
+4:-21.8392
+5:-21.8075
+6:-21.7011
+7:-21.7463
+
